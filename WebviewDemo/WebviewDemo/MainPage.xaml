@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="WebviewDemo.MainPage">
+
+    <ContentPage.Content>
+        <StackLayout BackgroundColor="Orange" Padding="7">
+            <!-- <Entry Text="" x:Name="UrlEntry" Placeholder="URL"> </Entry>
+            <Button Text="Web Address" Clicked="Button_Clicked" Background="white" TextColor="Black"></Button> -->
+            <StackLayout>
+                <WebView x:Name="Browser" VerticalOptions="FillAndExpand" HeightRequest="600"> </WebView>
+            </StackLayout>
+        </StackLayout>
+    </ContentPage.Content>
+
+</ContentPage>

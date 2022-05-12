@@ -1,0 +1,14 @@
+C:\Workspace V2\WebviewDemo\WebviewDemo\WebviewDemo\bin\Debug\netstandard2.0\WebviewDemo.deps.json
+C:\Workspace V2\WebviewDemo\WebviewDemo\WebviewDemo\bin\Debug\netstandard2.0\WebviewDemo.dll
+C:\Workspace V2\WebviewDemo\WebviewDemo\WebviewDemo\bin\Debug\netstandard2.0\ref\WebviewDemo.dll
+C:\Workspace V2\WebviewDemo\WebviewDemo\WebviewDemo\bin\Debug\netstandard2.0\WebviewDemo.pdb
+C:\Workspace V2\WebviewDemo\WebviewDemo\WebviewDemo\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Workspace V2\WebviewDemo\WebviewDemo\WebviewDemo\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Workspace V2\WebviewDemo\WebviewDemo\WebviewDemo\obj\Debug\netstandard2.0\WebviewDemo.AssemblyInfoInputs.cache
+C:\Workspace V2\WebviewDemo\WebviewDemo\WebviewDemo\obj\Debug\netstandard2.0\WebviewDemo.AssemblyInfo.cs
+C:\Workspace V2\WebviewDemo\WebviewDemo\WebviewDemo\obj\Debug\netstandard2.0\WebviewDemo.csproj.CoreCompileInputs.cache
+C:\Workspace V2\WebviewDemo\WebviewDemo\WebviewDemo\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Workspace V2\WebviewDemo\WebviewDemo\WebviewDemo\obj\Debug\netstandard2.0\WebviewDemo.dll
+C:\Workspace V2\WebviewDemo\WebviewDemo\WebviewDemo\obj\Debug\netstandard2.0\ref\WebviewDemo.dll
+C:\Workspace V2\WebviewDemo\WebviewDemo\WebviewDemo\obj\Debug\netstandard2.0\WebviewDemo.pdb
+C:\Workspace V2\WebviewDemo\WebviewDemo\WebviewDemo\obj\Debug\netstandard2.0\WebviewDemo.csprojAssemblyReference.cache
